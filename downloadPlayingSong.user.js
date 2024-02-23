@@ -2,7 +2,7 @@
 // @name         AMQ Download Playing Song
 // @namespace    https://github.com/Hadarios
 // @version      0.0.1
-// @description  Downloads the currently playing song during a quiz on AMQ ; THIS SCRIPT MUST BE USED WITH ITS HELPER : https://raw.githubusercontent.com/Hadarios/AMQ-Download-Playing-Song/main/helper.js
+// @description  Downloads the currently playing song during a quiz on AMQ, MUST BE USED WITH ITS HELPER : https://raw.githubusercontent.com/Hadarios/AMQ-Download-Playing-Song/main/helper.js
 // @author       Hadarios
 // @match        https://animemusicquiz.com/*
 // @require      https://cdn.jsdelivr.net/npm/@mattbasta/browser-id3-writer@3.0.8/dist/browser-id3-writer.min.js
