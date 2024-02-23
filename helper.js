@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         AMQ Download Playing Song Helper
 // @namespace    https://github.com/Hadarios
-// @version      0.0.0
+// @version      0.0.1
 // @description  Download directly from catbox because CORS
 // @author       Hadarios
 // @match        https://*.catbox.video/*?*
