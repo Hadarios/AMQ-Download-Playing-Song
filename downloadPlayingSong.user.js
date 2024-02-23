@@ -7,8 +7,8 @@
 // @match        https://animemusicquiz.com/*
 // @require      https://cdn.jsdelivr.net/npm/@mattbasta/browser-id3-writer@3.0.8/dist/browser-id3-writer.min.js
 // @require      https://raw.githubusercontent.com/eligrey/FileSaver.js/master/dist/FileSaver.min.js
-// @downloadURL  https://github.com/Hadarios/AMQ-Download-Playing-Song/raw/main/downloadPlayingSong.js
-// @updateURL    https://github.com/Hadarios/AMQ-Download-Playing-Song/raw/main/downloadPlayingSong.js
+// @downloadURL  https://github.com/Hadarios/AMQ-Download-Playing-Song/raw/main/downloadPlayingSong.user.js
+// @updateURL    https://github.com/Hadarios/AMQ-Download-Playing-Song/raw/main/downloadPlayingSong.user.js
 // ==/UserScript==
 
 
