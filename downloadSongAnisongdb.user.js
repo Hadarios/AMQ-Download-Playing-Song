@@ -2,13 +2,13 @@
 // @name         Download Buttons for AnisongDB
 // @namespace    https://github.com/Hadarios
 // @version      0.0.1
-// @description  Adds download buttons to AnisongDB, MUST BE USED WITH ITS HELPER : https://github.com/Hadarios/AMQ-Scripts/raw/main/catboxDownloadHelper.user.js
+// @description  Adds download buttons to AnisongDB, MUST BE USED WITH ITS HELPER : https://github.com/Hadarios/AMQ-Scripts/raw/master/catboxDownloadHelper.user.js
 // @author       Hadarios
 // @match        https://anisongdb.com
-// @icon         https://www.google.com/s2/favicons?sz=64&domain=anisongdb.com
+// @icon         https://www.google.com/s2/favicons?sz=64&domaster=anisongdb.com
 // @require      https://code.jquery.com/jquery-3.7.1.min.js
-// @downloadURL  https://github.com/Hadarios/AMQ-Scripts/raw/main/downloadSongAnisongdb.user.js
-// @updateURL    https://github.com/Hadarios/AMQ-Scripts/raw/main/downloadSongAnisongdb.user.js
+// @downloadURL  https://github.com/Hadarios/AMQ-Scripts/raw/master/downloadSongAnisongdb.user.js
+// @updateURL    https://github.com/Hadarios/AMQ-Scripts/raw/master/downloadSongAnisongdb.user.js
 // ==/UserScript==
 
 XMLHttpRequest.prototype.nativeOpen = XMLHttpRequest.prototype.open;
