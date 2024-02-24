@@ -2,7 +2,7 @@
 // @name         Download Buttons for AnisongDB
 // @namespace    https://github.com/Hadarios
 // @version      0.0.1
-// @description  Adds download buttons to AnisongDB, MUST BE USED WITH ITS HELPER : https://raw.githubusercontent.com/Hadarios/AMQ-Download-Playing-Song/main/helper.js
+// @description  Adds download buttons to AnisongDB, MUST BE USED WITH ITS HELPER : https://github.com/Hadarios/AMQ-Scripts/raw/main/catboxDownloadHelper.user.js
 // @author       Hadarios
 // @match        https://anisongdb.com
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=anisongdb.com
