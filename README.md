@@ -2,6 +2,9 @@
 
 Here are my userscripts for animemusicquiz.com
 
+## [AMQ No AFK Kick](https://github.com/Hadarios/AMQ-Scripts/raw/master/amqNoAFKKick.user.js)
+Prevents the game from kicking you for being AFK.  
+
 ## [AMQ Download Playing Song](https://github.com/Hadarios/AMQ-Scripts/raw/master/downloadPlayingSong.user.js)
 Simple userscript that adds a download button in the song info of the revealed song.  
 
