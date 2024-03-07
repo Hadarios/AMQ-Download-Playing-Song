@@ -17,6 +17,9 @@ Adds a download button in the info window of a song.
 ### WARNING  
 You MUST install the [Catbox Download Helper](#catbox-download-helper) as well.
 
+## [AMQ Hide Song Info](https://github.com/Hadarios/AMQ-Scripts/raw/master/amqHideSongInfo.user.js)
+Hides Song Info during guess phase.  
+
 ## [Catbox Download Helper](https://github.com/Hadarios/AMQ-Scripts/raw/master/catboxDownloadHelper.user.js)
 Helper to download songs from catbox with metadata from url parameters because CORS exists and I hate it.  
 Seems to take a lot of time to start the download sometimes for some reason but I am way to incompetent to know why.  
