@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         AMQ No AFK Kick
 // @namespace    https://github.com/Hadarios
-// @version      1.0.0
+// @version      1.0.1
 // @description  Prevents the game from kicking you
 // @author       Hadarios
 // @match        https://animemusicquiz.com/*
@@ -10,7 +10,7 @@
 // @updateURL    https://github.com/Hadarios/AMQ-Scripts/raw/master/amqNoAFKKick.user.js
 // ==/UserScript==
 
-let version = "1.0.0";
+let version = "1.0.1";
 
 // don't load on login page
 if (document.getElementById('startPage')) return;
@@ -31,7 +31,7 @@ function setup()
         afkKicker.setup();
 
         // check if is host before clearing to avoid error
-        if (this.hostAfkWarningTimeout != null)
+        if (afkKicker.hostAfkWarningTimeout != null)
         {
             afkKicker.clearHostTimeout();
         }
