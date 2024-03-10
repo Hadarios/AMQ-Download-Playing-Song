@@ -23,3 +23,6 @@ Hides Song Info during guess phase.
 ## [Catbox Download Helper](https://github.com/Hadarios/AMQ-Scripts/raw/master/catboxDownloadHelper.user.js)
 Helper to download songs from catbox with metadata from url parameters because CORS exists and I hate it.  
 Seems to take a lot of time to start the download sometimes for some reason but I am way to incompetent to know why.  
+
+## [AMQ Update Vintages](https://github.com/Hadarios/AMQ-Scripts/raw/master/amqUpdateVintages.user.js)
+Script to automatically update all saved settings' vintage from yearMin-(yearMax - 1) to yearMin-yearMax.  
