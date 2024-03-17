@@ -26,3 +26,6 @@ Seems to take a lot of time to start the download sometimes for some reason but 
 
 ## [AMQ Update Vintages](https://github.com/Hadarios/AMQ-Scripts/raw/master/amqUpdateVintages.user.js)
 Script to automatically update all saved settings' vintage from yearMin-(yearMax - 1) to yearMin-yearMax.  
+
+## [AMQ Focus Answer Input](https://github.com/Hadarios/AMQ-Scripts/raw/master/amqFocusAnswerInput.user.js)
+Focus answer input box on game start.  
