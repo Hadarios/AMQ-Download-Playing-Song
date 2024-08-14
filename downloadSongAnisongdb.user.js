@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Download Buttons for AnisongDB
 // @namespace    https://github.com/Hadarios
-// @version      0.0.1
+// @version      0.0.2
 // @description  Adds download buttons to AnisongDB, MUST BE USED WITH ITS HELPER : https://github.com/Hadarios/AMQ-Scripts/raw/master/catboxDownloadHelper.user.js
 // @author       Hadarios
 // @match        https://anisongdb.com
@@ -39,7 +39,7 @@ function addDownloadButton() {
         var artist = songInfo.match(/\" by (.*)/i)[1]
         var animeInfo = $("#modal-header").text();
         var anime = animeInfo.match(/(.*) \(.*\)/i)[1]
-        var url = $("#modal-mp3-link").text();
+        var url = $("#modal-mp3-link").attr("href");
 
         let type;
 
