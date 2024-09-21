@@ -30,5 +30,8 @@ Script to automatically update all saved settings' vintage from yearMin-(yearMax
 ## [AMQ Focus Answer Input](https://github.com/Hadarios/AMQ-Scripts/raw/master/amqFocusAnswerInput.user.js)
 Focus answer input box on game start.  
 
+## [AMQ Disable Artist Hover](https://github.com/Hadarios/AMQ-Scripts/raw/master/amqDisableArtistHover.user.js)
+Disables the floating window that appears when you hover over an artist.
+
 ## [Catbox ladist to nl](https://github.com/Hadarios/AMQ-Scripts/raw/master/catboxladistnl.user.js)
 Use nl instead of ladist on catbox.  
