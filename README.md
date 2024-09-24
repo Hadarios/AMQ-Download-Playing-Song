@@ -20,10 +20,6 @@ Adds a download button in the info window of a song.
 ## [AMQ Hide Song Info](https://github.com/Hadarios/AMQ-Scripts/raw/master/amqHideSongInfo.user.js)
 Hides Song Info during guess phase.  
 
-## [Catbox Download Helper](https://github.com/Hadarios/AMQ-Scripts/raw/master/catboxDownloadHelper.user.js)
-Helper to download songs from catbox with metadata from url parameters because CORS exists and I hate it.  
-Seems to take a lot of time to start the download sometimes for some reason but I am way to incompetent to know why.  
-
 ## [AMQ Update Vintages](https://github.com/Hadarios/AMQ-Scripts/raw/master/amqUpdateVintages.user.js)
 Script to automatically update all saved settings' vintage from yearMin-(yearMax - 1) to yearMin-yearMax.  
 
@@ -31,7 +27,11 @@ Script to automatically update all saved settings' vintage from yearMin-(yearMax
 Focus answer input box on game start.  
 
 ## [AMQ Disable Artist Hover](https://github.com/Hadarios/AMQ-Scripts/raw/master/amqDisableArtistHover.user.js)
-Disables the floating window that appears when you hover over an artist.
+Disables the floating window that appears when you hover over an artist.  
+
+## [Catbox Download Helper](https://github.com/Hadarios/AMQ-Scripts/raw/master/catboxDownloadHelper.user.js)
+Helper to download songs from catbox with metadata from url parameters because CORS exists and I hate it.  
+Seems to take a lot of time to start the download sometimes for some reason but I am way to incompetent to know why.  
 
 ## [Catbox ladist to nl](https://github.com/Hadarios/AMQ-Scripts/raw/master/catboxladistnl.user.js)
 Use nl instead of ladist on catbox.  
