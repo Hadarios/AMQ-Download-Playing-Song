@@ -7,15 +7,15 @@ Prevents the game from kicking you for being AFK.
 
 ## [AMQ Download Playing Song](https://github.com/Hadarios/AMQ-Scripts/raw/master/downloadPlayingSong.user.js)
 Simple userscript that adds a download button in the song info of the revealed song.  
-
-### WARNING  
-You MUST install the [Catbox Download Helper](#catbox-download-helper) as well.
+ 
+> [!WARNING]  
+> You MUST install the [Catbox Download Helper](#catbox-download-helper) as well.
 
 ## [AnisongDB Download Song](https://github.com/Hadarios/AMQ-Scripts/raw/master/downloadSongAnisongdb.user.js)
 Adds a download button in the info window of a song.  
 
-### WARNING  
-You MUST install the [Catbox Download Helper](#catbox-download-helper) as well.
+> [!WARNING]  
+> You MUST install the [Catbox Download Helper](#catbox-download-helper) as well.
 
 ## [AMQ Hide Song Info](https://github.com/Hadarios/AMQ-Scripts/raw/master/amqHideSongInfo.user.js)
 Hides Song Info during guess phase.  
