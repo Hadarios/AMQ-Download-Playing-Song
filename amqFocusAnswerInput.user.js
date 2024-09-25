@@ -30,7 +30,7 @@ new Listener("play next song", (payload) => {
 }).bindListener();
 
 AMQ_addScriptData({
-    name: "AMAMQ Focus Answer Input",
+    name: "AMQ Focus Answer Input",
     author: "Hadarios",
     version: version,
     link: "https://github.com/Hadarios/AMQ-Scripts/raw/master/amqFocusAnswerInput.user.js",

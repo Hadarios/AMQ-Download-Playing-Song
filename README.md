@@ -29,6 +29,9 @@ Focus answer input box on game start.
 ## [AMQ Disable Artist Hover](https://github.com/Hadarios/AMQ-Scripts/raw/master/amqDisableArtistHover.user.js)
 Disables the floating window that appears when you hover over an artist.  
 
+## [AMQ Sort Song Library](https://github.com/Hadarios/AMQ-Scripts/raw/master/amqSortSongLibrary.user.js)
+Sorts the game's song library by most songs in entry and exports it as a txt file.
+
 ## [Catbox Download Helper](https://github.com/Hadarios/AMQ-Scripts/raw/master/catboxDownloadHelper.user.js)
 Helper to download songs from catbox with metadata from url parameters because CORS exists and I hate it.  
 Seems to take a lot of time to start the download sometimes for some reason but I am way to incompetent to know why.  
