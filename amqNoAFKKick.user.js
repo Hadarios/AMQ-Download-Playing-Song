@@ -1,16 +1,16 @@
 // ==UserScript==
 // @name         AMQ No AFK Kick
 // @namespace    https://github.com/Hadarios
-// @version      1.0.1
+// @version      1.0.2
 // @description  Prevents the game from kicking you
 // @author       Hadarios
-// @match        https://animemusicquiz.com/*
+// @match        https://*.animemusicquiz.com/*
 // @require      https://github.com/joske2865/AMQ-Scripts/raw/master/common/amqScriptInfo.js
 // @downloadURL  https://github.com/Hadarios/AMQ-Scripts/raw/master/amqNoAFKKick.user.js
 // @updateURL    https://github.com/Hadarios/AMQ-Scripts/raw/master/amqNoAFKKick.user.js
 // ==/UserScript==
 
-let version = "1.0.1";
+let version = "1.0.2";
 
 // don't load on login page
 if (document.getElementById('startPage')) return;

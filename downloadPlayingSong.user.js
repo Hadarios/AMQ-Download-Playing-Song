@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name         AMQ Download Playing Song
 // @namespace    https://github.com/Hadarios
-// @version      0.0.2
+// @version      0.0.3
 // @description  Downloads the currently playing song during a quiz on AMQ, MUST BE USED WITH ITS HELPER : https://github.com/Hadarios/AMQ-Scripts/raw/master/catboxDownloadHelper.user.js
 // @author       Hadarios
-// @match        https://animemusicquiz.com/*
+// @match        https://*.animemusicquiz.com/*
 // @require      https://cdn.jsdelivr.net/npm/@mattbasta/browser-id3-writer@3.0.8/dist/browser-id3-writer.min.js
 // @require      https://raw.githubusercontent.com/eligrey/FileSaver.js/master/dist/FileSaver.min.js
 // @require      https://github.com/joske2865/AMQ-Scripts/raw/master/common/amqScriptInfo.js
@@ -12,7 +12,7 @@
 // @updateURL    https://github.com/Hadarios/AMQ-Scripts/raw/master/downloadPlayingSong.user.js
 // ==/UserScript==
 
-const version = "0.0.2"
+const version = "0.0.3"
 
 // don't load on login page
 if (document.getElementById("startPage")) return;

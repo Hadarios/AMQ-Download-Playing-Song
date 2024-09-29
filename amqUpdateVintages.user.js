@@ -1,16 +1,16 @@
 // ==UserScript==
 // @name         AMQ Update Vintages
 // @namespace    https://github.com/Hadarios
-// @version      1.0.0
+// @version      1.0.1
 // @description  Script to automatically update all saved settings' vintage from yearMin-(yearMax - 1) to yearMin-yearMax
 // @author       Hadarios
-// @match        https://animemusicquiz.com/*
+// @match        https://*.animemusicquiz.com/*
 // @require      https://github.com/joske2865/AMQ-Scripts/raw/master/common/amqScriptInfo.js
 // @downloadURL  https://github.com/Hadarios/AMQ-Scripts/raw/master/amqUpdateVintages.user.js
 // @updateURL    https://github.com/Hadarios/AMQ-Scripts/raw/master/amqUpdateVintages.user.js
 // ==/UserScript==
 
-let version = "1.0.0";
+let version = "1.0.1";
 
 // don't load on login page
 if (document.getElementById('startPage')) return;

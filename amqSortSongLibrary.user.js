@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name         AMQ Sort Song Library
 // @namespace    https://github.com/Hadarios
-// @version      1.0.0
+// @version      1.0.1
 // @description  Sorts the game's song library by most songs in entry and exports it as a txt file
 // @author       Hadarios
-// @match        https://animemusicquiz.com/*
+// @match        https://*.animemusicquiz.com/*
 // @require      https://github.com/joske2865/AMQ-Scripts/raw/master/common/amqScriptInfo.js
 // @require      https://code.jquery.com/jquery-3.7.1.min.js
 // @downloadURL  https://github.com/Hadarios/AMQ-Scripts/raw/master/amqSortSongLibrary.user.js
@@ -13,7 +13,7 @@
 
 'use strict';
 
-let version = "1.0.0";
+let version = "1.0.1";
 
 const entries = [];
 const songCounts = [];

@@ -1,16 +1,16 @@
 // ==UserScript==
 // @name         AMQ Hide Song Info
 // @namespace    https://github.com/Hadarios
-// @version      1.0.0
+// @version      1.0.1
 // @description  Hides Song Info during guess phase
 // @author       Hadarios
-// @match        https://animemusicquiz.com/*
+// @match        https://*.animemusicquiz.com/*
 // @require      https://github.com/joske2865/AMQ-Scripts/raw/master/common/amqScriptInfo.js
 // @downloadURL  https://github.com/Hadarios/AMQ-Scripts/raw/master/amqHideSongInfo.user.js
 // @updateURL    https://github.com/Hadarios/AMQ-Scripts/raw/master/amqHideSongInfo.user.js
 // ==/UserScript==
 
-let version = "1.0.0";
+let version = "1.0.1";
 
 new Listener("play next song", (payload) => {
     setTimeout(function() {

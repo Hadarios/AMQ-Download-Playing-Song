@@ -1,16 +1,16 @@
 // ==UserScript==
 // @name         AMQ Disable Artist Hover
 // @namespace    https://github.com/Hadarios
-// @version      1.0.0
+// @version      1.0.1
 // @description  Disables the floating window that appears when you hover over an artist
 // @author       Hadarios
-// @match        https://animemusicquiz.com/*
+// @match        https://*.animemusicquiz.com/*
 // @require      https://github.com/joske2865/AMQ-Scripts/raw/master/common/amqScriptInfo.js
 // @downloadURL  https://github.com/Hadarios/AMQ-Scripts/raw/master/amqDisableArtistHover.user.js
 // @updateURL    https://github.com/Hadarios/AMQ-Scripts/raw/master/amqDisableArtistHover.user.js
 // ==/UserScript==
 
-let version = "1.0.0";
+let version = "1.0.1";
 
 function createArtistHoverFromHoverDescription(artistHoverInformation, $trigger, delay, $container, searchCallback) {
     return;

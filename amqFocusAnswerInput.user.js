@@ -1,16 +1,16 @@
 // ==UserScript==
 // @name         AMQ Focus Answer Input
 // @namespace    https://github.com/Hadarios
-// @version      1.0.0
+// @version      1.0.1
 // @description  Focus answer input box on game start
 // @author       Hadarios
-// @match        https://animemusicquiz.com/*
+// @match        https://*.animemusicquiz.com/*
 // @require      https://github.com/joske2865/AMQ-Scripts/raw/master/common/amqScriptInfo.js
 // @downloadURL  https://github.com/Hadarios/AMQ-Scripts/raw/master/amqFocusAnswerInput.user.js
 // @updateURL    https://github.com/Hadarios/AMQ-Scripts/raw/master/amqFocusAnswerInput.user.js
 // ==/UserScript==
 
-let version = "1.0.0";
+let version = "1.0.1";
 
 let start = false;
 
