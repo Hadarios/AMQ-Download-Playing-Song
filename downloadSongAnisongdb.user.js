@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         Download Buttons for AnisongDB
 // @namespace    https://github.com/Hadarios
-// @version      0.0.2
-// @description  Adds download buttons to AnisongDB, MUST BE USED WITH ITS HELPER : https://github.com/Hadarios/AMQ-Scripts/raw/master/catboxDownloadHelper.user.js
+// @version      0.0.3
+// @description  Adds download buttons to AnisongDB, MUST BE USED WITH ITS HELPER : https://github.com/Hadarios/AMQ-Scripts/raw/master/amqDownloadHelper.user.js
 // @author       Hadarios
 // @match        https://anisongdb.com
 // @icon         https://www.google.com/s2/favicons?sz=64&domaster=anisongdb.com

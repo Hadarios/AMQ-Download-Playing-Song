@@ -9,13 +9,13 @@ Prevents the game from kicking you for being AFK.
 Simple userscript that adds a download button in the song info of the revealed song.  
  
 > [!WARNING]  
-> You MUST install the [Catbox Download Helper](#catbox-download-helper) as well.
+> You MUST install the [AMQ Download Helper](#amq-download-helper) as well.
 
 ## [AnisongDB Download Song](https://github.com/Hadarios/AMQ-Scripts/raw/master/downloadSongAnisongdb.user.js)
 Adds a download button in the info window of a song.  
 
 > [!WARNING]  
-> You MUST install the [Catbox Download Helper](#catbox-download-helper) as well.
+> You MUST install the [AMQ Download Helper](#amq-download-helper) as well.
 
 ## [AMQ Hide Song Info](https://github.com/Hadarios/AMQ-Scripts/raw/master/amqHideSongInfo.user.js)
 Hides Song Info during guess phase.  
@@ -32,7 +32,7 @@ Disables the floating window that appears when you hover over an artist.
 ## [AMQ Sort Song Library](https://github.com/Hadarios/AMQ-Scripts/raw/master/amqSortSongLibrary.user.js)
 Sorts the game's song library by most songs in entry and exports it as a txt file.
 
-## [Catbox Download Helper](https://github.com/Hadarios/AMQ-Scripts/raw/master/catboxDownloadHelper.user.js)
+## [AMQ Download Helper](https://github.com/Hadarios/AMQ-Scripts/raw/master/amqDownloadHelper.user.js)
 Helper to download songs from catbox with metadata from url parameters because CORS exists and I hate it.  
 Seems to take a lot of time to start the download sometimes for some reason but I am way to incompetent to know why.  
 

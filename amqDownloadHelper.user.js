@@ -1,14 +1,14 @@
 // ==UserScript==
-// @name         Catbox Download Helper
+// @name         AMQ Download Helper
 // @namespace    https://github.com/Hadarios
-// @version      0.0.1
-// @description  Download directly from catbox because CORS
+// @version      0.0.2
+// @description  Download directly from AMQ because CORS
 // @author       Hadarios
-// @match        https://*.catbox.video/*?*
+// @match        https://*.animemusicquiz.com/*?*
 // @require      https://cdn.jsdelivr.net/npm/@mattbasta/browser-id3-writer@3.0.8/dist/browser-id3-writer.min.js
 // @require      https://raw.githubusercontent.com/eligrey/FileSaver.js/master/dist/FileSaver.min.js
-// @downloadURL  https://github.com/Hadarios/AMQ-Scripts/raw/master/catboxDownloadHelper.user.js
-// @updateURL    https://github.com/Hadarios/AMQ-Scripts/raw/master/catboxDownloadHelper.user.js
+// @downloadURL  https://github.com/Hadarios/AMQ-Scripts/raw/master/amqDownloadHelper.user.js
+// @updateURL    https://github.com/Hadarios/AMQ-Scripts/raw/master/amqDownloadHelper.user.js
 // ==/UserScript==
 
 //get current URL

@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         AMQ Download Playing Song
 // @namespace    https://github.com/Hadarios
-// @version      0.0.3
-// @description  Downloads the currently playing song during a quiz on AMQ, MUST BE USED WITH ITS HELPER : https://github.com/Hadarios/AMQ-Scripts/raw/master/catboxDownloadHelper.user.js
+// @version      0.0.4
+// @description  Downloads the currently playing song during a quiz on AMQ, MUST BE USED WITH ITS HELPER : https://github.com/Hadarios/AMQ-Scripts/raw/master/amqDownloadHelper.user.js
 // @author       Hadarios
 // @match        https://*.animemusicquiz.com/*
 // @require      https://cdn.jsdelivr.net/npm/@mattbasta/browser-id3-writer@3.0.8/dist/browser-id3-writer.min.js
@@ -12,7 +12,7 @@
 // @updateURL    https://github.com/Hadarios/AMQ-Scripts/raw/master/downloadPlayingSong.user.js
 // ==/UserScript==
 
-const version = "0.0.3"
+const version = "0.0.4"
 
 // don't load on login page
 if (document.getElementById("startPage")) return;
@@ -82,5 +82,5 @@ AMQ_addScriptData({
     author: "Hadarios",
     version: version,
     link: "https://github.com/Hadarios/AMQ-Scripts/raw/master/downloadPlayingSong.user.js",
-    description: `<p>Downloads the currently playing song during a quiz on AMQ</p><p>MUST BE USED WITH ITS HELPER : <a target="_blank" href="https://github.com/Hadarios/AMQ-Scripts/raw/master/catboxDownloadHelper.user.js">https://github.com/Hadarios/AMQ-Scripts/raw/master/catboxDownloadHelper.user.js</a></p>`
+    description: `<p>Downloads the currently playing song during a quiz on AMQ</p><p>MUST BE USED WITH ITS HELPER : <a target="_blank" href="https://github.com/Hadarios/AMQ-Scripts/raw/master/amqDownloadHelper.user.js">https://github.com/Hadarios/AMQ-Scripts/raw/master/amqDownloadHelper.user.js</a></p>`
 })
