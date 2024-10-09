@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         AMQ Download Playing Song
 // @namespace    https://github.com/Hadarios
-// @version      0.0.4
+// @version      0.0.5
 // @description  Downloads the currently playing song during a quiz on AMQ, MUST BE USED WITH ITS HELPER : https://github.com/Hadarios/AMQ-Scripts/raw/master/amqDownloadHelper.user.js
 // @author       Hadarios
 // @match        https://*.animemusicquiz.com/*
@@ -12,7 +12,7 @@
 // @updateURL    https://github.com/Hadarios/AMQ-Scripts/raw/master/downloadPlayingSong.user.js
 // ==/UserScript==
 
-const version = "0.0.4"
+const version = "0.0.5"
 
 // don't load on login page
 if (document.getElementById("startPage")) return;
@@ -64,7 +64,7 @@ function downloadSong() {
     // if there is an MP3 upload, use this url
     if (urls["catbox"].hasOwnProperty("0")) {
         console.log("in if");
-        url = "https://ladist1.catbox.video/" + urls["catbox"]["0"];
+        url = "https://naedist.animemusicquiz.com/" + urls["catbox"]["0"];
     }
     // else, display message and return
     else {
